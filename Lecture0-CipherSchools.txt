@@ -1,5 +1,5 @@
 #Lecture 0
 In this Lecture 0, I learned the following things
-1.💻 Rewrite code shown in videos and upload to GitHub.
-2.🎓 Overview of C++ and Data Structures Algorithms course.
-3.🌟 Full learning experience covering basics of C++, data structures, and algorithms.
+1. Rewrite code shown in videos and upload to GitHub.
+2. Overview of C++ and Data Structures Algorithms course.
+3. Full learning experience covering basics of C++, data structures, and algorithms.
